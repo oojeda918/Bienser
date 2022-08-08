@@ -319,7 +319,7 @@ a:hover {
   transform: translate3d(0, 0, 0);
   /* Set your background with this */
 
-  background: rgb(0, 169, 152)
+  background: #00a697
     url(https://github.com/oojeda918/Bienser/blob/main/assets/css/images/Background_homebienser.png?raw=true)
     bottom left;
   background-repeat: repeat-x;
